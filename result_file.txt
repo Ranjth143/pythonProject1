@@ -1,0 +1,2 @@
+SUCCESS: The server is accessible.
+1.Facebook titled page is opened and Test case 1 is validated
